@@ -1,3 +1,3 @@
 # Test file
 
-Update file2
+I have updated this file
